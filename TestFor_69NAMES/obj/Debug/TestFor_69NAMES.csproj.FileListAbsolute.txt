@@ -1,0 +1,17 @@
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\bin\Debug\TestFor_69NAMES.exe.config
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\bin\Debug\TestFor_69NAMES.exe
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\bin\Debug\TestFor_69NAMES.pdb
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\bin\Debug\EntityFramework.dll
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\bin\Debug\EntityFramework.SqlServer.dll
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\bin\Debug\EntityFramework.xml
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\bin\Debug\EntityFramework.SqlServer.xml
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\obj\Debug\TestFor_69NAMES.csproj.AssemblyReference.cache
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\obj\Debug\TestFor_69NAMES.csproj.SuggestedBindingRedirects.cache
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\obj\Debug\TestFor_69NAMES.csproj.CoreCompileInputs.cache
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\obj\Debug\TestFor_69NAMES.csproj.CopyComplete
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\obj\Debug\TestFor_69NAMES.exe
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\obj\Debug\TestFor_69NAMES.pdb
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\bin\Debug\Newtonsoft.Json.dll
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\bin\Debug\Newtonsoft.Json.xml
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\bin\Debug\SharpSnmpLib.dll
+D:\Rider Projects\TestFor_69NAMES\TestFor_69NAMES\bin\Debug\SharpSnmpLib.pdb
